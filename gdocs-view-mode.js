@@ -16,7 +16,7 @@
 /* ATTRIBUTION
 
 This project is a fork of [jabielecki/firefox-gdocs-view](https://github.com/jabielecki/firefox-gdocs-view),
-originally created by its respective author(s), and is licensed under the GNU Affero General Public License v3.0.
+originally created by its respective author(s), and is licensed under the [GNU Affero General Public License v3.0](https://github.com/Myst1cX/gdocs-view-mode/blob/main/LICENSE)
 
 */
 
